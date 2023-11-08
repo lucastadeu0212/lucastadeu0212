@@ -1,5 +1,30 @@
 <h1> Hi! I am Lucas Tadeu 👨‍💻 </h1>
 
+### About Me
+
+💻 Eu sou um desenvolvedor Back-End 
+
+🎓 Eu estudo [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2)
+
+👨‍💻 Atualmente eu trabalho como Técnico em manutenção de Iphone Autônomo.
+
+🔎 Sou um amante da técnologia e do quanto ela pode trazer melhorias nas vidas das pessoas.
+
+✒️ Eu gosto de nas minhas horas vagas jogar uma boa gameplay(desde novo apaixonado pelo universo Gamer) e gosto de viajar com minha família.
+
+
+### Eu já trabalhei com... 🔧
+
+**Tecnologias e Ferramentas**
+
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
 <div>
   <a href="https://github.com/lucastadeu0212">
   <img height="150em"   align="center" src="https://github-readme-stats.vercel.app/api?username=lucastadeu0212&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -14,8 +39,13 @@
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  
-  
+
+
+### Entre em contato comigo! 📭
+<div>
+<a href="https://www.linkedin.com/in/lucas-tadeu-n-biscaia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 
 
   
