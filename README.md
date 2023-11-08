@@ -8,7 +8,7 @@
 
 👨‍💻 Atualmente eu trabalho como Técnico em manutenção de Iphone Autônomo.
 
-🔎 Sou um amante da técnologia e do quanto ela pode trazer melhorias nas vidas das pessoas.
+🔎 Sou um amante da técnologia e do quanto ela pode trazer melhorias na vida das pessoas.
 
 ✒️ Eu gosto de nas minhas horas vagas jogar uma boa gameplay(desde novo apaixonado pelo universo Gamer) e gosto de viajar com minha família.
 
@@ -22,7 +22,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 <div>
@@ -42,14 +41,6 @@
 
 
 ### Entre em contato comigo! 📭
-<div>
-<a href="https://www.linkedin.com/in/lucas-tadeu-n-biscaia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-
-
-  
- 
     
 </div>
   <br> <a href="https://www.linkedin.com/in/lucas-tadeu-n-biscaia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
