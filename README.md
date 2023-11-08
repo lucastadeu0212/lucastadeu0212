@@ -17,13 +17,6 @@
 
 **Tecnologias e Ferramentas**
 
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
 <div>
   <a href="https://github.com/lucastadeu0212">
   <img height="150em"   align="center" src="https://github-readme-stats.vercel.app/api?username=lucastadeu0212&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
