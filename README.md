@@ -13,9 +13,7 @@
 ✒️ Eu gosto de nas minhas horas vagas jogar uma boa gameplay(desde novo apaixonado pelo universo Gamer) e gosto de viajar com minha família.
 
 
-### Eu já trabalhei com... 🔧
-
-**Tecnologias e Ferramentas**
+**Tecnologias e Ferramentas** 🔧
 
 <div>
   <a href="https://github.com/lucastadeu0212">
