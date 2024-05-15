@@ -8,7 +8,7 @@
 
 👨‍💻 Atualmente eu trabalho como Técnico em manutenção de Iphone Autônomo.
 
-🔎 Sou um amante da técnologia e do quanto ela pode trazer melhorias na vida das pessoas.
+🔎 Sou um amante da tecnologia e do quanto ela pode trazer melhorias na vida das pessoas.
 
 ✒️ Eu gosto de nas minhas horas vagas jogar uma boa gameplay(desde novo apaixonado pelo universo Gamer) e gosto de viajar com minha família.
 
